@@ -1,15 +1,19 @@
 Wichtige Git-Befehle:
 
   	git Chekout
-  	git diff
   	git log
-  	git clone
+  	git clone == Clode ein Repository
     git init
     git status
-    git add
+    git add == fügt Datein zur Staging area hinzu
+    git diff
+        git diff (ohne Argumente) == vergleich von staging area und working directory
+        git diff -- stage
+    git reset --hard 
 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-    staging area zeigt den Status eines Repository an workspace nur den funktioniert
+    staging area zeigt den Status eines Repository( ob Änderungen schon commitet wurden oder
+    nicht) an workspace nur den Ort bzw die Datein
