@@ -1,0 +1,49 @@
+﻿FC und die Datein die verglichen werden sollen
+
+Beispiel: FC game_old.js game_new.js  (Vergleichen der Dateien game_old.js und
+GAME_NEW.JS)
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    wenn etwas vorher funktioniert hat und plötzlich nicht mehr funktioniert,
+    dann liegt dies oftan einfachen Tippfehlern. Allte und neue version zu
+    Vergleichen kann helfen
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Änderung können leichter nachvollzogen werden, bugs so schneller erkannt
+    und behoben werden
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro es müssen nicht immer alle Änderungen nachvollzogen werden
+    Con Programm nicht gespeichert bei plötzlichem Absturtz
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Kein Autocommit bei Git, bei google docs schon zu viele Speicherverbrauch,
+    bei mehren gleichzeitig
+
+How can you use the commands git log and git diff to view the history of files?
+
+    diff vergleicht mittels id welche Änderungen vorgenommen wurden
+    log gibt die History des Repository (letzte Änderung zu erst)
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Ich habe immer ein Backup, es geht also nichts verloren, was funktioniert
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Keine Ahnung
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    keine Ahnung

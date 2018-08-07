@@ -1,0 +1,7 @@
+Wichtige Git-Befehle:
+  	git Chekout
+  	git diff
+  	git log
+  	git clone
+    git init
+    git status
