@@ -1,7 +1,15 @@
 Wichtige Git-Befehle:
+
   	git Chekout
   	git diff
   	git log
   	git clone
     git init
     git status
+    git add
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    staging area zeigt den Status eines Repository an workspace nur den funktioniert
