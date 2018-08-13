@@ -9,7 +9,18 @@ Wichtige Git-Befehle:
     git diff
         git diff (ohne Argumente) == vergleich von staging area und working directory
         git diff -- stage
-    git reset --hard 
+    git reset --hard
+    git config 
+        git config --global core.editor "code -w" == legt den Text editor für .git fest
+        git config --global user.name "Ben" (auch für email möglich)
+    git branch
+    git merge branch2 branch3
+    git branch -d coins = branch löschen
+    git remote 
+    git push
+    
+
+
 
 
 How is the staging area different from the working directory and the repository?
@@ -17,3 +28,10 @@ What value do you think it offers?
 
     staging area zeigt den Status eines Repository( ob Änderungen schon commitet wurden oder
     nicht) an workspace nur den Ort bzw die Datein
+
+https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+        verschieden sprachversonien, Testen mit Backup usw
