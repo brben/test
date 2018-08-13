@@ -1,8 +1,33 @@
+Ordner hoch:
+        cd..
 Wichtige Git-Befehle:
         git pull origin master
 
 
 When would you want to use a remote repository rather than keeping all your work local?
 
-    zugriff von überall, Arbeit mit mehreren, backup 
+        zugriff von überall, Arbeit mit mehreren, backup 
 
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+        Wenn etwas nicht funktioniert kann es bei automatischem push dazu kommen das es
+        für alle übernommen wird
+        Bei pull ähnlich
+
+Clones vs froks vs branches
+
+        colnes: Kopie eines Repositorys ohne Verweis auf den Creater on local mashine 
+        forks: Kopie eines Repositorys mit Verweis auf den Creater on GitHub
+        branch: Innerhalb eines Repositorys 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+        man arbeitet mit der aktullesten Version, hat keine Versionskonflikte
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would
+be harder?
+
+        Schwieriger: Fehler finden, Code zusammenführen, Änderungen nachvollziehen
+        Leichter: Keine Konflikte
+ 
